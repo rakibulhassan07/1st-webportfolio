@@ -99,5 +99,28 @@ margin: 5px;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-
+}
+main{
+    max-width: 1140px;
+   margin: 0px auto;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+}
+.about-list{
+    color: var(--Dark-03, #757575);
+     font-size: 20px;
+     font-weight: 400; 
+}
+.about-details{
+    color: var(--Dark-02, #474747);
+    font-size: 20px;
+    font-weight: 700;
 }
