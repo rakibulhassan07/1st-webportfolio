@@ -81,3 +81,23 @@ font-size: 40px;
 font-weight: 700;
 margin: 5px;
 }
+.about{
+    padding: 131px 157px 131px 157px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0px ;
+
+}
+.section-title{
+    color: var(--Dark-01, #181818);
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-des{
+    color: var(--Dark-03, #757575);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
