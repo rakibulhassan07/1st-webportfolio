@@ -7,7 +7,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px 226px;
+    margin: 0px 160px;
     
 }
 nav>h3{
@@ -44,13 +44,40 @@ nav,a{
 }
 .header{
     background-color: #FFF8F3;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 550px;
 }
 .banner{
-    padding: 30px 30px 30px 230px;
+    padding: 0px 30px 0px 160px;
     display: flex;  
     align-items: center;
+    justify-content: space-between;
+    
+}
+.banner-content{
+    max-width:500px ;
 }
 .profile{
-    width: 500px;
-    flex-shrink: 0;
+    width: 450px;
+    
+}
+.banner3{
+    margin: 20px 5px 20px 0px;
+    width: 300;
+    font-size: 18px;
+    font-weight: 400px;
+}
+.banner1{
+color:  #474747;
+font-size: 25px;
+font-weight: 550;
+margin: opx;
+}
+.banner2{
+    color:  #181818;
+font-size: 40px;
+font-weight: 700;
+margin: 5px;
 }
