@@ -226,6 +226,13 @@ main section{
 .social-link a{
    margin-right: 25px;
 }
-   
+   @media screen and (max-width:576px) {
+    .footer{
+        flex-direction: column;
+        width: 100%;
+        padding: 65px;
+    }
+    
+   }
 
 
