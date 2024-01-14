@@ -268,5 +268,8 @@ main section{
    .Skills-container{
     flex-direction: column;
    }
+   .section-des{
+    text-align: left;
+   }
 
    }
