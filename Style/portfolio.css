@@ -232,7 +232,25 @@ main section{
         width: 100%;
         padding: 65px;
     }
-    
+    .resume-container{
+        flex-direction: column;
+        padding: 80px;
+    }
+    .about {
+        padding: 100px;    
+   }
+   .section-des{
+    text-align: left;
+   }
+   .info{
+      flex-direction: column;
+   }
+   .section-des2{
+    text-align: left;
+    padding: 100px;
+   }
+   .Skills-container{
+    flex-direction: column;
    }
 
-
+   }
